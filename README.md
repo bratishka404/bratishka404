@@ -115,23 +115,15 @@ Fullstack developer with a focus on game development and Independent developer f
 <div align="center">
 
 ### **📈 GitHub Statistics**
-<!-- GitHub Stats with rounded corners -->
 ![SystemHysteria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bratishka404&show_icons=true&theme=radical&hide_border=true&border_radius=20&bg_color=0d1117&title_color=6A5ACD&icon_color=FF6B6B&include_all_commits=true&count_private=true)
 
 ### **🔥 Contribution Streak**
-<!-- Streak Stats with rounded corners -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=bratishka404&theme=radical&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### **💻 Language Usage**
-<!-- Top Languages with rounded corners -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bratishka404&layout=compact&theme=radical&hide_border=true&border_radius=20&bg_color=0d1117&title_color=6A5ACD&langs_count=8)
 
-### **🏆 GitHub Achievements**
-<!-- GitHub Trophies with rounded corners -->
-![trophy](https://github-profile-trophy.vercel.app/?username=bratishka404&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
-
 ### **📊 Activity Overview**
-<!-- GitHub Activity Graph -->
 ![SystemHysteria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bratishka404&bg_color=0d1117&color=6A5ACD&line=FF6B6B&point=00BFFF&area=true&hide_border=true&radius=20)
 
 </div>
