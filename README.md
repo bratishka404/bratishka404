@@ -9,7 +9,7 @@
 <div align="center">
 
 ![Gamedev Enthusiast](https://img.shields.io/badge/🎮_Gamedev_Enthusiast-8A2BE2?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000)
-![Creative Lover](https://img.shields.io/badge/🎨_Creative_Lover-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)
+![Creative Lover](https://img.shields.io/badge/🎨_Creative_Lover-FF6B6B?style=for-the-badge&logo=krita&logoColor=white&labelColor=000000)
 ![Fullstack Developer](https://img.shields.io/badge/⚡_Fullstack_Developer-00BFFF?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000)
 
 </div>
