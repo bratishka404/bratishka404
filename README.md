@@ -1,6 +1,6 @@
 <div align="center">
 
-![SystemHysteria Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&height=80&lines=SystemHysteria;Programming+for+the+Soul;Fullstack+Developer+%26+Creative+Technologist)
+![SystemHysteria Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&height=80&lines=SystemHysteria;Programming+for+the+Soul)
 
 </div>
 
@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![Gamedev Enthusiast](https://img.shields.io/badge/🎮_Gamedev_Specialist-8A2BE2?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000)
-![Creative Lover](https://img.shields.io/badge/🎨_Creative_Developer-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)
-![Fullstack Developer](https://img.shields.io/badge/⚡_Fullstack_Engineer-00BFFF?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000)
+![Gamedev Enthusiast](https://img.shields.io/badge/🎮_Gamedev_Enthusiast-8A2BE2?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000)
+![Creative Lover](https://img.shields.io/badge/🎨_Creative_Lover-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)
+![Fullstack Developer](https://img.shields.io/badge/⚡_Fullstack_Developer-00BFFF?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000)
 
 </div>
 
@@ -29,19 +29,19 @@
 
 Fullstack developer with a focus on game development and Independent developer focused on personal projects.
 
-**Professional Philosophy**: *Code should be both functional and beautiful, creating experiences that resonate on multiple levels.*
+**Philosophy**: *"Games should respect players' time, money, and passion. True artistry lies in creating complete experiences, not monetization systems."*
 
 ---
 
 ## **🎯 Deep Specializations**
 
 ### **⚡ Core Expertise**
-<div align="center">
+<div align="left">
 
-![C# ‭❤](https://img.shields.io/badge/C%23_Expert-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity ‭❤](https://img.shields.io/badge/Unity_Developer-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C++ ‭❤](https://img.shields.io/badge/C%2B%2B_Developer-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java ‭❤](https://img.shields.io/badge/Java_Engineer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C# ‭❤](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity ‭❤](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C++ ‭❤](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java ‭❤](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
